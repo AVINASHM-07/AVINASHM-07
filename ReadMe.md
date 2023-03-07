@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💼Business administration graduate specialized in financial planning<br>🔰Passionately pursuing a career in data science<br>🎯Goal is to leverage education and analytical skills to solve complex business problems through data-driven insights<br>🧩Deeply interested in the field of data science<br>⚒️Desperately wants to work in this field to learn and grow skills<br>⚽Loves playing football<br>🧠Currently learning about deep learning and computer vision<br>🧩Excited to see how these fields can be applied to solve real-world problems.<br>
+🧑‍💼Business administration graduate specialized in financial planning<br>🔰Passionately pursuing a career in data science<br>🎯Goal is to leverage education and analytical skills to solve complex business problems through data-driven insights<br>🧩Deeply interested in the field of data science<br>⚒️Desperately wants to work in this field to learn and grow skills<br>⚽Loves playing football<br>🧠Currently learning about deep learning and computer vision<br>🧩Excited to see how these fields can be applied to solve real-world Problems.<br>
 
 
 # 💻 Tech Stack:
